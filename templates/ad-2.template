@@ -129,6 +129,7 @@
         "ADServer2InstanceType": {
             "AllowedValues": [
                 "t2.large",
+                "t3.xlarge",
                 "m4.large",
                 "m4.xlarge",
                 "m4.2xlarge",
